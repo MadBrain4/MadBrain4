@@ -73,10 +73,12 @@
 | **Ingeniería en Computación** | Universidad José Antonio Páez (UJAP) | Dic. 2019 - May. 2023 |
 | **Idiomas Modernos (Inglés)** | Funda UC (Universidad de Carabobo) | Jul. 2023 - Dic. 2024 |
 
+---
 
 ## 📬 Contáctame
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jos%C3%A9-vicente-l%C3%B3pez-delgadillo/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-vicente-l%C3%B3pez-delgadillo/)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:Josevld412@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/MadBrain4)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=MadBrain4&color=blueviolet)
