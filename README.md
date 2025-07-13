@@ -1,7 +1,5 @@
 # 👨‍💻 Hola, soy José Vicente López | Backend Developer (con Vue 😂)
 
-[![Portada de GitHub](https://via.placeholder.com/1200x400/1e3a8a/ffffff?text=Desarrollador+Backend+Especializado)](https://tu-enlace.com)
-
 🔧 **Desarrollador Backend** con 3 años de experiencia construyendo APIs robustas y soluciones escalables.  
 🌎 He colaborado con empresas en Latinoamérica y España.  
 🎓 **Ingeniero en Computación** (UJAP) + **Título en Idiomas Modernos** (Inglés - Funda UC).  
