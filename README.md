@@ -11,7 +11,6 @@
 <div align="center">
   <a href="https://github.com/MadBrain4">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadBrain4&layout=compact&langs_count=8&theme=radical&hide=html,css"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadBrain4&theme=radical" alt="MadBrain4" />
   </a>
 </div>
 
