@@ -2,7 +2,19 @@
 
 🔧 **Desarrollador Backend** con 3 años de experiencia construyendo APIs robustas y soluciones escalables.  
 🌎 He colaborado con empresas en Latinoamérica y España.  
-🎓 **Ingeniero en Computación** (UJAP) + **Título en Idiomas Modernos** (Inglés - Funda UC).  
+🎓 **Ingeniero en Computación** (UJAP) + **Título en Idiomas Modernos** (Inglés - Funda UC). 
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/MadBrain4">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MadBrain4&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadBrain4&layout=compact&langs_count=8&theme=radical&hide=html,css"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadBrain4&theme=radical" alt="MadBrain4" />
+  </a>
+</div>
 
 ---
 
