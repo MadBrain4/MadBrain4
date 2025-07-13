@@ -1,4 +1,4 @@
-# 👨‍💻 Hola, soy José Vicente López | Backend Developer (con Vue 😂)
+# José Vicente López Delgadillo | Backend Developer
 
 🔧 **Desarrollador Backend** con 3 años de experiencia construyendo APIs robustas y soluciones escalables.  
 🌎 He colaborado con empresas en Latinoamérica y España.  
@@ -54,11 +54,6 @@
 ### **Jet-Filter C.A.** - *Backend Developer*
 📅 *Sept. 2022 - Oct. 2023*  
 📍 *Presencial (Cojedes, Venezuela)*  
-
-### **Otras Empresas**: Tecnofactory, LatinAd
-- Migración de sistemas monolíticos a arquitecturas modernas
-- Automatización de pipelines CI/CD con Azure DevOps
-- Mentoría a nuevos desarrolladores
 
 ---
 
